@@ -1,0 +1,96 @@
+{
+  "config": {},
+  "ameacas": {
+    "existencias": [
+      {"nome": "Zumbi de Sangue", "elemento": "Sangue", "vd": 10},
+      {"nome": "Existido", "elemento": "Morte", "vd": 10},
+      {"nome": "Ocioso", "elemento": "Conhecimento", "vd": 10},
+      {"nome": "Lampejo", "elemento": "Energia", "vd": 10},
+      {"nome": "Cão de Arrependimento", "elemento": "Morte", "vd": 20},
+      {"nome": "Poltergeist", "elemento": "Energia", "vd": 20},
+      {"nome": "Sombra de Tinta", "elemento": "Conhecimento", "vd": 20},
+      {"nome": "Zumbi de Sangue Bestial", "elemento": "Sangue", "vd": 20}
+    ],
+    "manifestacoes": [
+      {"nome": "Enraizado", "elemento": "Morte", "vd": 30},
+      {"nome": "Sanguinário Jovem", "elemento": "Sangue", "vd": 30},
+      {"nome": "Cerebelo", "elemento": "Conhecimento", "vd": 30},
+      {"nome": "Anomalia Local", "elemento": "Energia", "vd": 30},
+      {"nome": "Degolador", "elemento": "Sangue", "vd": 40},
+      {"nome": "Mulher de Preto", "elemento": "Morte", "vd": 40},
+      {"nome": "Sukuyomi", "elemento": "Energia", "vd": 40},
+      {"nome": "Vulto dos Sussurros", "elemento": "Conhecimento", "vd": 40}
+    ],
+    "entidades": [
+      {"nome": "Sanguinário", "elemento": "Sangue", "vd": 60},
+      {"nome": "Carente", "elemento": "Conhecimento", "vd": 60},
+      {"nome": "Espectro do Eco", "elemento": "Energia", "vd": 60},
+      {"nome": "Distorção Temporal", "elemento": "Morte", "vd": 60},
+      {"nome": "Carniçal", "elemento": "Morte", "vd": 80},
+      {"nome": "Viajante", "elemento": "Conhecimento", "vd": 80},
+      {"nome": "Minotauro de Sangue", "elemento": "Sangue", "vd": 80},
+      {"nome": "Telopsia", "elemento": "Energia", "vd": 80}
+    ]
+  },
+  "locais": {
+    "Sangue": ["Matadouro municipal", "Hospital de campanha", "Arena clandestina"],
+    "Morte": ["Cemitério de trens", "Mansão vitoriana", "Túnel de metrô antigo"],
+    "Energia": ["Parque de diversões", "Estação elétrica", "Estúdio de rádio"],
+    "Conhecimento": ["Museu de cera", "Biblioteca oculta", "Arquivo nacional"],
+    "Medo": ["Orfanato assombrado", "Vila névoa", "Sanatório"]
+  },
+  "ganchos": {
+    "Sangue": [
+      "Relatos de pessoas ouvindo batimentos cardíacos vindo de dentro das paredes de um prédio comercial.",
+      "Um açougueiro foi encontrado em transe, esculpindo símbolos complexos em carne fresca.",
+      "Uma academia local reportou que todos os seus frequentadores entraram em um estado de fúria cega coletiva."
+    ],
+    "Morte": [
+      "O lodo preto está subindo pelo encanamento de um hotel, e os hóspedes afirmam ver vultos no reflexo da água.",
+      "Uma família inteira envelheceu 40 anos durante uma única noite de sono em uma fazenda isolada.",
+      "Relógios de uma cidadezinha pararam exatamente ao mesmo tempo e o sol parece não nascer há 20 horas."
+    ],
+    "Energia": [
+      "Um fliperama abandonado ligou sozinho e luzes estroboscópicas estão atraindo crianças para dentro.",
+      "Sinais de rádio de 1950 começaram a transmitir pedidos de socorro que interferem em todos os celulares da área.",
+      "Uma central elétrica está emitindo um zumbido que faz as pessoas terem alucinações coloridas e convulsões."
+    ],
+    "Conhecimento": [
+      "Um museu reportou que todas as suas estátuas trocaram de lugar sozinhas e agora apontam para o norte.",
+      "Um vilarejo inteiro esqueceu como ler, escrever ou reconhecer os próprios rostos da noite para o dia.",
+      "Documentos sigilosos da polícia foram substituídos por páginas em branco contendo apenas um símbolo central."
+    ],
+    "Medo": [
+      "Um agente da Ordem desapareceu deixando apenas o celular gravando um áudio de estática pura.",
+      "O Orbe de Relíquias aponta para uma falha catastrófica na membrana nesta localização exata.",
+      "Um sobrevivente em estado catatônico balbucia coordenadas geográficas de um local que não deveria existir."
+    ]
+  },
+  "reviravoltas": {
+    "Sangue": [
+      "A criatura principal é formada pelo sangue acumulado de um NPC que os jogadores tentaram salvar.",
+      "Qualquer ferimento causado pelos agentes no local atrai mais 'existências' devido ao cheiro metálico no ar.",
+      "O boss se regenera completamente se estiver em contato com o sangue derramado no chão da arena."
+    ],
+    "Morte": [
+      "O tempo no local está acelerado: cada rodada de combate consome, na verdade, um dia de vida dos agentes.",
+      "A morte não é o fim aqui; os inimigos derrotados levantam-se após 2 rodadas com uma aura de lodo preto.",
+      "O cenário está apodrecendo em tempo real; partes do mapa ficam inacessíveis conforme o combate avança."
+    ],
+    "Energia": [
+      "A realidade está oscilando; a cada rodada, o cenário muda aleatoriamente entre o presente e o passado.",
+      "As armas eletrônicas e lanternas dos agentes podem falhar ou explodir devido à instabilidade elétrica.",
+      "O monstro principal muda de elemento (e fraqueza) toda vez que sofre um dano crítico."
+    ],
+    "Conhecimento": [
+      "Os agentes começam a esquecer suas perícias; eles perdem -1d20 em testes se não consultarem suas anotações.",
+      "O monstro sabe exatamente o próximo passo dos jogadores e tem vantagem em todos os testes de esquiva.",
+      "A missão é um quebra-cabeça mental: o boss só sofre dano se os agentes decifrarem um enigma durante a luta."
+    ],
+    "Medo": [
+      "O verdadeiro inimigo é um 'Infiltrado' da própria Ordem que enlouqueceu e está orquestrando tudo.",
+      "A missão era uma armadilha para atrair agentes e fortalecer a membrana com o medo deles.",
+      "Não há criatura física; os agentes estão enfrentando projeções dos seus próprios piores traumas."
+    ]
+  }
+}

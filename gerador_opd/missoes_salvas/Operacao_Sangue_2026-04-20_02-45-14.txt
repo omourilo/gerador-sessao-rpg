@@ -1,0 +1,17 @@
+============================================================
+       ORDO REALITAS - RELATÓRIO OFICIAL DE MISSÃO
+============================================================
+
+🩸 ELEMENTO DOMINANTE: SANGUE
+📍 LOCALIZAÇÃO: Hospital de campanha
+📜 BRIEFING: Relatos de pessoas ouvindo batimentos cardíacos vindo de dentro das paredes de um prédio comercial.
+
+------------------------------------------------------------
+🕵️ INVESTIGAÇÃO (Existências): Zumbi de Sangue (VD 10)
+⚠️ PERIGO CRESCENTE (Manifestação): Zumbi de Sangue (VD 10)
+💀 ENTIDADE FINAL (Boss): Zumbi de Sangue (VD 10)
+
+------------------------------------------------------------
+🔄 REVIRAVOLTA: O boss se regenera completamente se estiver em contato com o sangue derramado no chão da arena.
+📊 VD TOTAL ESTIMADO: 30
+============================================================

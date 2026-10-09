@@ -1,0 +1,17 @@
+============================================================
+       ORDO REALITAS - RELATÓRIO OFICIAL DE MISSÃO
+============================================================
+
+🩸 ELEMENTO DOMINANTE: CONHECIMENTO
+📍 LOCALIZAÇÃO: Arquivo nacional
+📜 BRIEFING: Um agente da Ordem desapareceu deixando apenas o celular gravando um áudio de estática pura.
+
+------------------------------------------------------------
+🕵️ INVESTIGAÇÃO (Existências): Sombra de Tinta (VD 20)
+⚠️ PERIGO CRESCENTE (Manifestação): Vulto dos Sussurros (VD 40)
+💀 ENTIDADE FINAL (Boss): Carente (VD 60)
+
+------------------------------------------------------------
+🔄 REVIRAVOLTA: Os agentes começam a esquecer suas perícias; eles perdem -1d20 em testes se não consultarem suas anotações.
+📊 VD TOTAL ESTIMADO: 60
+============================================================
